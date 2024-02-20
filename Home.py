@@ -11,8 +11,8 @@ with col1:
 with col2:
     st.title("Marcela DL")
     content = """  
-    Hi! I am Marcela DL, Python programer, PhD, and Quality Manager. I am love to learn, and want to create a new 
-    journey to programing, web creation and automation. 
+    Hi! I am Marcela DL, Python programer, PhD, and Quality Manager. I love to learn, and want to create a new 
+    programing journey, web creation and automation. 
     """
     st.write(content)
 
